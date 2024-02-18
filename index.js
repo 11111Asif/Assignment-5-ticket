@@ -1,6 +1,3 @@
-const button = document.getElementById('button').addEventListener('click', function(){
-    console.log('asif')
-})
 const seats = document.querySelectorAll('#seats button');
 const seatCount = document.getElementById('seat-count');
 const bookedSeat = document.getElementById('booked-seats');
